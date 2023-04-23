@@ -32,6 +32,5 @@
 
 #
 
-### <details> <summary><h3>📊 Stats</h3></summary>
-
+### 📊 Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=elagamix&show_icons=true&theme=gruvbox)
