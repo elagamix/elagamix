@@ -34,4 +34,4 @@
 
 ### 📊 Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=elagamix&show_icons=true&theme=gruvbox)
