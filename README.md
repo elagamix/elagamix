@@ -8,7 +8,7 @@
 - 📫 Reach out to me: mohamedelagamix@gmail.com
 ---
 
-### 🧰 Contact me:
+### ✉ Contact me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elagamix/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/elagamix)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://www.twitter.com/elagamix)
