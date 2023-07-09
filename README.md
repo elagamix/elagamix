@@ -5,7 +5,6 @@
 - 🧰 I build with: `React.js`, `JavaScript`, `VSCode`
 - ⚡ Fun fact: I enjoy photography, reading, playing football, videography, and lifting weights :)
 - 📫 Reach out to me: mohamedelagamix@gmail.com
----
 
 ### ✉ Contact me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elagamix/)
