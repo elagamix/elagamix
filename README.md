@@ -3,8 +3,10 @@
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://www.twitter.com/elagamix)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/elagamix)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/@elagamix)
+[Twitter](https://github.com/elagamix/elagamix/assets/91068428/f119c0c0-03dc-445d-87aa-0086f81e6a17)
 
 - 🏢 Software Engineer (Front-end)
+
 - 🌱 I’m currently learning `React.js`
 - 🧰 I build with: `React.js`, `JavaScript`, `VSCode`
 - ⚡ Fun fact: I enjoy photography, reading, playing football, videography, and lifting weights :)
