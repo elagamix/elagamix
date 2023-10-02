@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning `React.js`
 - 🧰 I build with: `React.js`, `JavaScript`, `VSCode`
-- ⚡ Fun fact: I enjoy photography, reading, playing football, videography, and lifting weights :)
 - 📫 Reach out to me: mohamedelagamix@gmail.com
 
 ### 🧰 Languages and Tools
