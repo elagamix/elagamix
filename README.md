@@ -5,6 +5,5 @@
 - 🏢 Software Engineer (Front-end)
 - 🌱 I’m currently learning `React.js`
 - 🧰 I build with: `Html`, `Css`, `JavaScript`, `React.js`, `Tailwind`, `Bootstrap`, `Sass`
-- ⚡ I enjoy photography, video games, playing Football, and lifting weights
 - 📫 Reach out to me: mohamedelagamix@gmail.com
 
